@@ -1,0 +1,14 @@
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+
+# MinIO对象存储相关配置
+minio:
+  endpoint:   http://192.168.0.102:9000 #MinIO服务所在地址
+  bucketName: mall #存储桶名称
+  accessKey: minioadmin #访问的key
+  secretKey: minioadmin #访问的秘钥
+  
+        

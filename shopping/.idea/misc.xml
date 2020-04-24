@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/soppring-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-minio/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-content-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-solr/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-search-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-sellergoods-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-activitiMq/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/springboot-activitiMQ-sender/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-page-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/springboot-springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/springboot-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/jwt-parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

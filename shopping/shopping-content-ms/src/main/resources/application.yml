@@ -1,0 +1,40 @@
+server:
+  port: 8887
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+spring:
+  application: 
+    name: 'shopping-content-ms'
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: 'jdbc:mysql://localhost:3306/pinyougoudb?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC'
+    type: com.alibaba.druid.pool.DruidDataSource
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+
+mybatis:
+  type-aliases-package: com.shopping.content.pojo
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+file:
+  staticAccessPath: '/upload/**'
+  uploadFolder: 'D:\\file'
+
+
+
+# MinIO对象存储相关配置
+minio:
+  endpoint: http://192.168.0.102:9000 #MinIO服务所在地址
+  bucketName: mall #存储桶名称
+  accessKey: minioadmin #访问的key
+  secretKey: minioadmin #访问的秘钥
+ 

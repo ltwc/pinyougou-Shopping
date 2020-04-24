@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jwt-mapper" />
+        <module name="shopping-service" />
+        <module name="springboot-solr" />
+        <module name="jwt-pojo" />
+        <module name="shopping-sellergoods-ms" />
+        <module name="springboot-springsecurity" />
+        <module name="shopping-pojo" />
+        <module name="shopping-page-ms" />
+        <module name="shopping-search-ms" />
+        <module name="shopping-minio" />
+        <module name="springboot-activitiMQ-receiver" />
+        <module name="jwt-microservice" />
+        <module name="jwt-common" />
+        <module name="shopping-goods-ms" />
+        <module name="springboot-activitiMQ-sender" />
+        <module name="jwt-gateway-" />
+        <module name="shopping-zuul" />
+        <module name="jwt-gateway" />
+        <module name="shopping-mapper" />
+        <module name="shopping-content-ms" />
+        <module name="jwt-autj-center" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jwt-autj-center" target="1.8" />
+      <module name="jwt-common" target="1.8" />
+      <module name="jwt-gateway" target="1.8" />
+      <module name="jwt-gateway-" target="1.8" />
+      <module name="jwt-mapper" target="1.8" />
+      <module name="jwt-microservice" target="1.8" />
+      <module name="jwt-parent" target="1.8" />
+      <module name="jwt-pojo" target="1.8" />
+      <module name="shopping-content-ms" target="1.8" />
+      <module name="shopping-goods-ms" target="1.8" />
+      <module name="shopping-mapper" target="1.8" />
+      <module name="shopping-minio" target="1.8" />
+      <module name="shopping-page-ms" target="1.8" />
+      <module name="shopping-parent" target="1.8" />
+      <module name="shopping-pojo" target="1.8" />
+      <module name="shopping-search-ms" target="1.8" />
+      <module name="shopping-sellergoods-ms" target="1.8" />
+      <module name="shopping-service" target="1.8" />
+      <module name="shopping-zuul" target="1.8" />
+      <module name="springboot-activitiMQ-receiver" target="1.8" />
+      <module name="springboot-activitiMQ-sender" target="1.8" />
+      <module name="springboot-jwt" target="1.8" />
+      <module name="springboot-solr" target="1.8" />
+      <module name="springboot-springsecurity" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jwt-autj-center" options="-parameters" />
+      <module name="jwt-common" options="-parameters" />
+      <module name="jwt-gateway" options="-parameters" />
+      <module name="jwt-gateway-" options="-parameters" />
+      <module name="jwt-mapper" options="-parameters" />
+      <module name="jwt-microservice" options="-parameters" />
+      <module name="jwt-parent" options="-parameters" />
+      <module name="jwt-pojo" options="-parameters" />
+      <module name="shopping-content-ms" options="-parameters" />
+      <module name="shopping-goods-ms" options="-parameters" />
+      <module name="shopping-mapper" options="-parameters" />
+      <module name="shopping-minio" options="-parameters" />
+      <module name="shopping-page-ms" options="-parameters" />
+      <module name="shopping-pojo" options="-parameters" />
+      <module name="shopping-search-ms" options="-parameters" />
+      <module name="shopping-sellergoods-ms" options="-parameters" />
+      <module name="shopping-service" options="-parameters" />
+      <module name="shopping-zuul" options="-parameters" />
+      <module name="springboot-activitiMQ-receiver" options="-parameters" />
+      <module name="springboot-activitiMQ-sender" options="-parameters" />
+      <module name="springboot-jwt" options="-parameters" />
+      <module name="springboot-solr" options="-parameters" />
+      <module name="springboot-springsecurity" options="-parameters" />
+    </option>
+  </component>
+</project>

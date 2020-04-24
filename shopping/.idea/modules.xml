@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-autj-center/jwt-autj-center.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-autj-center/jwt-autj-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-common/jwt-common.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-common/jwt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/springboot-jwt/jwt-gateway/jwt-gateway.iml" filepath="$PROJECT_DIR$/../springboot/springboot-jwt/jwt-gateway/jwt-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-gateway-/jwt-gateway-.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-gateway-/jwt-gateway-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-mapper/jwt-mapper.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-mapper/jwt-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-microservice/jwt-microservice.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-microservice/jwt-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-parent.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/jwt-parent/jwt-pojo/jwt-pojo.iml" filepath="$PROJECT_DIR$/../springboot/jwt-parent/jwt-pojo/jwt-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-content-ms/shopping-content-ms.iml" filepath="$PROJECT_DIR$/shopping-content-ms/shopping-content-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parent/shopping-goods-ms/shopping-goods-ms.iml" filepath="$PROJECT_DIR$/shopping-parent/shopping-goods-ms/shopping-goods-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parent/shopping-mapper/shopping-mapper.iml" filepath="$PROJECT_DIR$/shopping-parent/shopping-mapper/shopping-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-minio/shopping-minio.iml" filepath="$PROJECT_DIR$/shopping-minio/shopping-minio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-page-ms/shopping-page-ms.iml" filepath="$PROJECT_DIR$/shopping-page-ms/shopping-page-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parent/shopping-parent.iml" filepath="$PROJECT_DIR$/shopping-parent/shopping-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parent/shopping-pojo/shopping-pojo.iml" filepath="$PROJECT_DIR$/shopping-parent/shopping-pojo/shopping-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-search-ms/shopping-search-ms.iml" filepath="$PROJECT_DIR$/shopping-search-ms/shopping-search-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-sellergoods-ms/shopping-sellergoods-ms.iml" filepath="$PROJECT_DIR$/shopping-sellergoods-ms/shopping-sellergoods-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-service/shopping-service.iml" filepath="$PROJECT_DIR$/shopping-service/shopping-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parent/shopping-zuul/shopping-zuul.iml" filepath="$PROJECT_DIR$/shopping-parent/shopping-zuul/shopping-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activitiMq/springboot-activitiMQ-receiver.iml" filepath="$PROJECT_DIR$/springboot-activitiMq/springboot-activitiMQ-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/springboot-activitiMQ-sender/springboot-activitiMQ-sender.iml" filepath="$PROJECT_DIR$/../springboot/springboot-activitiMQ-sender/springboot-activitiMQ-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/springboot-jwt/springboot-jwt.iml" filepath="$PROJECT_DIR$/../springboot/springboot-jwt/springboot-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-solr/springboot-solr.iml" filepath="$PROJECT_DIR$/springboot-solr/springboot-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/springboot-springsecurity/springboot-springsecurity.iml" filepath="$PROJECT_DIR$/../springboot/springboot-springsecurity/springboot-springsecurity.iml" />
+    </modules>
+  </component>
+</project>
