@@ -6,5 +6,10 @@ public class First {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        int aa = 0;
+        if (aa == 0 ){
+            aa++;
+            System.out.println(aa);
+        }
     }
 }
